@@ -253,15 +253,144 @@ a{
     -ms-border-radius: none;
     -o-border-radius: none;
 }
-.dreams{
+
+.boxbody{
+    background-color: aqua;
+    display: flex;
+}
+.box{
+    display: flex;
+    width:80%;
+    margin:auto ;
+    
+}
+.box1{
+    height: 200px;
+    background-color: aliceblue;
+    display: flex;
     width: 50%;
 }
-.burger{
+.box1 img{
+    width: 110px;
+    height: 110px;
 
-    
-    background-color: rgb(199, 111, 111);
-    display:flex;
+}
+/* .box1 img{
+    margin: auto;
+} */
+.fifthbody{
+    background-color:#35b8be;
+
+}
+
+
+
+/* 6th part */
+.adii1{
+    padding-top: 150px;
+    padding-left: 70px;
     
 }
+.adii1 h1{
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+    line-height: 45px;
+    color: #35b8be;
+
+
+}
+.adii1 p{
+    font-family: 'Rubik', sans-serif;
+    line-height: 25px;
+    font-size: 18px;
+    margin-top: 21px;
+    color: #546285;
+
+}
+.hunger1 img{
+    margin-top: 5px;
+}
+.front1{
+    display: flex;
+    padding-bottom: 40px;
+    width: 100%;
+    margin: auto;
+}
+.adii1 button{
+    margin-top:50px;
+    padding: 20px 35px;
+    color: rgb(255, 255, 255);
+    font-family: 'Rubik', sans-serif;
+    font-size: 19px;
+    background-color: #35b8be;
+    border: none;
+    border: radius 3px; ;
+    -webkit-border-radius:3px ;
+    -moz-border-radius:3px ;
+    -ms-border-radius:3px ;
+    -o-border-radius:3px ;
+}
+
+.hunger1 img{
+    margin-top: 5px;
+    width: 600px;
+    height: 600px;
+}
+
+/* 7thpart */
+.adii2{
+    padding-top: 150px;
+    padding-left: 70px;
+    
+}
+.adii2 h1{
+    font-family: 'Rubik', sans-serif;
+    font-size: 50px;
+    line-height: 45px;
+    color: #35b8be;
+
+
+}
+.adii2 p{
+    font-family: 'Rubik', sans-serif;
+    line-height: 25px;
+    font-size: 18px;
+    margin-top: 21px;
+    color: #546285;
+
+}
+.hunger2 img{
+    margin-top: 5px;
+}
+.front2{
+    display: flex;
+    padding-bottom: 40px;
+    background-image: url(./0092.png);
+    width: 100%;
+    margin: auto;
+}
+.adii2 button{
+    margin-top:50px;
+    padding: 20px 35px;
+    color: rgb(255, 255, 255);
+    font-family: 'Rubik', sans-serif;
+    font-size: 19px;
+    background-color: #35b8be;
+    border: none;
+    border: radius 3px; ;
+    -webkit-border-radius:3px ;
+    -moz-border-radius:3px ;
+    -ms-border-radius:3px ;
+    -o-border-radius:3px ;
+}
+
+.hunger2 img{
+    margin-top: 5px;
+    width: 600px;
+    height: 600px;
+}
+
+
+
 
 
